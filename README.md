@@ -18,3 +18,6 @@ curl 7.49.1
 
 curl win32 win64 https://curl.haxx.se/download.html#Win32
 
+
+miniweb https://sourceforge.net/projects/miniweb/files/latest/download
+
